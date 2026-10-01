@@ -181,8 +181,8 @@ Kutai  (green → yellow)  →  Adityawarman (green → yellow)  →  Sutos (gre
 
 ## 👥 Team
 
-**Kelompok 4 — Class TRI-A**
-*Computer Architecture (Arsitektur Komputer)*
+- [@irfansss-03](https://github.com/irfansss-03)
+- [@BalB04](https://github.com/BalB04)
 
 ---
 
