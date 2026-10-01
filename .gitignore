@@ -1,0 +1,12 @@
+# Large media (exceeds GitHub's 100 MB per-file limit)
+*.rar
+*.mp4
+
+# Windows download metadata
+*:Zone.Identifier
+
+# Proteus backups / temporary files
+*.pdsbak
+*.workspace
+*.DSK
+Backup/
