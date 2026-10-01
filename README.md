@@ -104,6 +104,19 @@ The design is built from the following devices (as listed in the Proteus device 
   <sub><i>The complete intersection running in Proteus — traffic lights, 7-segment countdown, and dot-matrix indicators active.</i></sub>
 </div>
 
+### 📍 Location
+
+The simulated intersection is modelled after a real crossroads in **Surabaya, Indonesia**.
+
+| | |
+| :--- | :--- |
+| **Coordinates** | `-7.294358693661378, 112.73175574445374` |
+| **Address** | Jl. Kutai × Jl. Adityawarman, Darmo, Wonokromo, Surabaya, East Java 60242, Indonesia |
+| **Landmarks** | Persebaya Store Sutos · KFC Adityawarman · Palapa Toseriba · Planet Ban Kutai |
+| **Map** | [Open in Google Maps](https://www.google.com/maps?q=-7.294358693661378,112.73175574445374) |
+
+> The three signal phases — **Kutai**, **Adityawarman**, and **Sutos** — are named after the surrounding roads and landmarks of this intersection.
+
 ---
 
 ## 🚀 Installation & Usage
