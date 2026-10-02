@@ -196,6 +196,7 @@ Kutai  (green → yellow)  →  Adityawarman (green → yellow)  →  Sutos (gre
 
 - [@irfansss-03](https://github.com/irfansss-03)
 - [@BalB04](https://github.com/BalB04)
+- [@MobaQyu](https://github.com/MobaQyu)
 
 ---
 
